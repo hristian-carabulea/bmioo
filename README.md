@@ -3,6 +3,7 @@
 
 ## The bmioo program can be accessed from the Linux BASH, and the bmioo.exe can be accessed from the Windows command line or in PowerShell as well.
 ### bmioo.cpp: source file
+### bmioo.h  : bmi class header file.
 ### bmioo    : Linux executable to be used in BASH.
 * SHA-256: 140E91AE1EC8A2B44C8875378A43AD5923D3357E4147C225DADB6775FE240A4B
 ### bmioo.exe : Windows executable to be used from the command line or in PowerShell.
