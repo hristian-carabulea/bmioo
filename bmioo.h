@@ -27,7 +27,6 @@ public:
             else if (measurementSystem == 'x') {
                 exit(EXIT_SUCCESS);
             }
-            
         }
     };
     //****************************************
