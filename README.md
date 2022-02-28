@@ -1,4 +1,4 @@
-# BMI (Body Mass Index) Calculator written in C++ using Object Oriented technology
+# BMI (Body Mass Index) Calculator written in C++ using Object Oriented Programming.
 ## Calculate the BMI (Body Mass Index) using metric or US Customery system based values. Only height and weight values are being considered, without age and gender differentiation. The algorithm is based on info from https://www.calculator.net/bmi-calculator.html.
 
 ## The bmioo program can be accessed from the Linux BASH, and the bmioo.exe can be accessed from the Windows command line or in PowerShell as well.
